@@ -1,6 +1,6 @@
 # Netflix## <h1 align="center" >🍿🎞️📽️Netflix - Exploratory Data Analysis🎬📺🎦
 
-<kbd>![nx](https://github.com/KasiMuthuveerappan/Netflix-EDA/assets/142071405/fda7089d-b203-4527-b134-527e9df08a8a)</kbd>
+<kbd>![nx](https://github.com/Samruddhi3003/Netflix-EDA/assets/142071405/fda7089d-b203-4527-b134-527e9df08a8a)</kbd>
 
 
 ## 🏷️Overview
