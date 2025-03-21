@@ -18,7 +18,7 @@ I have done a thorough analysis of Netflix's content, user reviews, and other re
 ## 🤔 Exploratory Data Analysis
 
 ## 📝 Project Report
-- You can access the complete project python file here - [Python](https://github.com/KasiMuthuveerappan/Netflix-EDA/blob/main/EDA%20analysis/NetflixEDA.ipynb)
+- You can access the complete project python file here - [Python](https://github.com/Samruddhi3003/Netflix/blob/main/NetflixEDA.ipynb)
 - You can access the complete project in pdf format here - [Report](https://github.com/KasiMuthuveerappan/Netflix-EDA/blob/main/EDA%20analysis/NetflixEDA%20-%20a3.pdf)
 
 
